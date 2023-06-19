@@ -1,5 +1,5 @@
 # 忽略 WebApp 專案的檔案
 # bin 資料夾
-WebApp\WebApp\bin\*
+WebApp/WebApp/bin/
 # obj 資料夾
-WebApp\WebApp\obj\*
+WebApp/WebApp/obj/
